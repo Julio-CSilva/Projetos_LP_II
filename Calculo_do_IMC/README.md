@@ -9,7 +9,7 @@ informarIMC, onde é passado o valor do IMC da pessoa e retornado em qual faixa 
 - Na classe main, foi instanciado um objeto pessoa(p1), onde por meio do terminal é atribuidos os valores de peso e altura, e após isso é também informado o valor de seu IMC,
 assim como a faixa que se encontra.
 
-![Alt Text](https://github.com/Julio-CSilva/Projetos_LP_II/blob/main/images/Screenshot_1.png)
+![Alt Text](https://github.com/Julio-CSilva/Projetos_LP_II/blob/main/images/Screenshot_.png)
 
 ## 🛠 Technologies
 
