@@ -7,6 +7,6 @@ Códigos
    * [Cálculo do IMC](https://github.com/Julio-CSilva/Projetos_LP_II/tree/main/Calculo_do_IMC)
    * [Sistema de Matrícula](https://github.com/Julio-CSilva/Projetos_LP_II/tree/main/Sistema_Matricula)
    * [Sistema Bancário](https://github.com/Julio-CSilva/LP_II_projetoBanco)
-   * [Aula prática 06]()
+   * [Aula prática 06](https://github.com/Julio-CSilva/Projetos_LP_II/tree/main/SistemaEscolar)
    * [Aula prática 08]()
 <!--te-->
