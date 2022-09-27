@@ -1,18 +1,18 @@
-## Getting Started
+# Deposito
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição: 
+- Criação de classes que representam produtos com seus respectivos prazos de validade, preços, nomes, marcas e etc.
 
-## Folder Structure
+## Terminal: 
+- Na classe main, foi instanciado 6 objetos que herdam de produto, 3 produtos duraveis e 3 produtos não duraveis, os 6 objetos foram adicionados no deposito e após isso foi solicitado ao deposito que informe o produto mais caro e também quantos produtos existem no estoque.
 
-The workspace contains two folders by default, where:
+![Alt Text](https://github.com/Julio-CSilva/Projetos_LP_II/blob/main/images/Screenshot_1.png)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠 Technologies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [Git](https://git-scm.com)
+- [Github](https://github.com)
+- [VScode](https://code.visualstudio.com)
+- [Java](https://www.java.com/pt-BR/)
